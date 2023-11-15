@@ -5,6 +5,6 @@ resource: repository
 where: 
 configuration:
   platformContext:
-    active: true
-onFailure: 
+    active: org
+onFailure: github.com.denominio
 onSuccess:
